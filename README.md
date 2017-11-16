@@ -85,7 +85,7 @@ Pour chaque entier, afficher une seule ligne contenant le résultat.
 3
 0
 15
-*```
+```
 ### Problème 5 :
 Tri simple  Algorithmic TLE  2 seconds  Start Coding
 Il est demandé de créer un code pour ordonner une liste de chiffres du plus grand au plus petit. 
@@ -98,7 +98,7 @@ Spécifications de la sortie:
 
 Pour chaque ligne de l'entrée, afficher le résultat dans une ligne séparée
 ```html
-#### STDIN
+<strong>STDIN</strong>
 12 45 8765 2 56
 654 567 654 789 32
 
