@@ -18,12 +18,12 @@ Spécifications de la sortie:
 
 Pour chaque ligne de l'entrée, le programme doit afficher l’ensemble des caractères extraits dans une ligne séparée.
 ```html
-#### STDIN
+->STDIN
 2 4 La maison du livre
 1 1 Surnomme "le roi de la pop"
 1 100 Il a donne plus de 400 millions.
 
-### STDOUT
+->STDOUT
 
 Your solution should produce a similar result.
 a m
@@ -50,11 +50,11 @@ Spécifactions de la sortie:
 
 Afficher une seule ligne contenant le résultat du processing comme expliqué dans l'exemple en haut.
 ```html
-#### STDIN
+->STDIN
 
 10101010101010101
 11011011011111000
-### STDOUT
+->STDOUT
 1110001110101101
 ```
 ### Problème 3 :
@@ -73,13 +73,13 @@ Le programme prend plusieurs lignes, chaque ligne contient un seul chiffre.
 Spécifications de la sortie:
 Pour chaque entier, afficher une seule ligne contenant le résultat.
 ```html
-#### STDIN
+->STDIN
 4
 3
 10
 0
 10000000
-### STDOUT
+->STDOUT
 2
 2
 3
@@ -98,11 +98,11 @@ Spécifications de la sortie:
 
 Pour chaque ligne de l'entrée, afficher le résultat dans une ligne séparée
 ```html
-<strong>STDIN</strong>
+->STDIN
 12 45 8765 2 56
 654 567 654 789 32
 
-### STDOUT
+->STDOUT
 
 8765 56 45 12 2
 789 654 654 567 32
